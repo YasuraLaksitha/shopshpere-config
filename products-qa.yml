@@ -1,0 +1,12 @@
+server:
+  port: 8081
+
+contact:
+  message: Welcome to Shop Sphere QA-Lead contact
+  contact-details:
+    name: Yasura Laksitha - QA Lead
+    email: yasura.dev@gmail.com
+    on-call-support:
+      - (555) 456-7890
+      - (555) 654-3210
+
