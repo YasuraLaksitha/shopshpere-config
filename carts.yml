@@ -1,15 +1,11 @@
 server:
-  port: 8081
+  port: 8090
 
 contact:
-  message: Welcome to Shop Sphere product-service developer contact
+  message: Welcome to Shop Sphere cart-service developer contact
   contactDetails:
     name: Yasura Laksitha - developer
     email: yasura.dev@gmail.com
     onCallSupport:
       - (555) 456-7890
       - (555) 654-3210
-
-images:
-  products:
-    url: images

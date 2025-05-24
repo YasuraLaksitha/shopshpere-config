@@ -2,7 +2,7 @@ server:
   port: 8081
 
 contact:
-  message: Welcome to Shop Sphere production owner contact
+  message: Welcome to Shop Sphere product-service production owner contact
   contactDetails:
     name: Yasura Laksitha - production owner
     email: yasura.dev@gmail.com
