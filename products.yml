@@ -6,9 +6,9 @@ contact:
   contactDetails:
     name: Yasura Laksitha - developer
     email: yasura.dev@gmail.com
-    onCallSupport:
-      - (555) 456-7890
-      - (555) 654-3210
+  onCallSupport:
+    - (555) 456-7890
+    - (555) 654-3210
 
 images:
   products:
