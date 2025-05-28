@@ -1,0 +1,11 @@
+server:
+  port: 8090
+
+contact:
+  message: Welcome to Shop Sphere payment-gateway production owner contact
+  contactDetails:
+    name: Yasura Laksitha - production owner
+    email: yasura.dev@gmail.com
+  onCallSupport:
+    - (555) 456-7890
+    - (555) 654-3210
