@@ -1,5 +1,5 @@
 server:
-  port: 8095
+  port: 9000
 
 contact:
   message: Welcome to Shop Sphere payment-gateway developer contact
