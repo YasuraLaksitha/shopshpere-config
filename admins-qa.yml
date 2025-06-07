@@ -1,0 +1,11 @@
+server:
+  port: 9010
+
+contact:
+  message: Welcome to Shop Sphere admin-service QA-Lead contact
+  contactDetails:
+    name: Yasura Laksitha - QA-Lead
+    email: yasura.dev@gmail.com
+  onCallSupport:
+    - (555) 456-7890
+    - (555) 654-3210
