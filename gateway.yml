@@ -1,8 +1,8 @@
 server:
-  port: 9010
+  port: 8072
 
 contact:
-  message: Welcome to Shop Sphere admin-service developer contact
+  message: Welcome to Shop Sphere gateway-server developer contact
   contactDetails:
     name: Yasura Laksitha - developer
     email: yasura.dev@gmail.com

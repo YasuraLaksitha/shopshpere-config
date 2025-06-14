@@ -1,11 +1,12 @@
 server:
-  port: 9010
+  port: 8072
 
 contact:
-  message: Welcome to Shop Sphere admin-service developer contact
+  message: Welcome to Shop Sphere gateway-server qa-lead contact
   contactDetails:
-    name: Yasura Laksitha - developer
+    name: Yasura Laksitha - qa-lead
     email: yasura.dev@gmail.com
   onCallSupport:
     - (555) 456-7890
     - (555) 654-4569
+
