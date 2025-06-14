@@ -9,3 +9,7 @@ contact:
   onCallSupport:
     - (555) 456-7890
     - (555) 654-4569
+
+images:
+  products:
+    url: images
